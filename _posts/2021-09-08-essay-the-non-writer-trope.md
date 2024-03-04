@@ -2,7 +2,7 @@
 title: "Essay: The Trope of the Non-Writer"
 date: 2021-09-18T15:34:30-04:00
 categories:
-  - Blog
+  - Thinking
 tags:
   - history
   - behaviorial science

@@ -2,7 +2,7 @@
 title: "Essay: Franz Kafka and Otto Gross"
 date: 2023-12-18T15:34:30-04:00
 categories:
-  - Blog
+  - Thinking
 tags:
   - literature
   - psychology
