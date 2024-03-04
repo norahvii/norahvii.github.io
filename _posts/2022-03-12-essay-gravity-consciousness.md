@@ -4,7 +4,7 @@ date: 2022-03-18T15:34:30-04:00
 categories:
   - Blog
 tags:
-  - philosophy
+  - biology
   - cosmology
   - thinking
 ---
