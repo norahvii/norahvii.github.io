@@ -9,5 +9,5 @@ My name is Norah Vii and this is my blog and portfolio page. My intent here is t
 
 Maybe if I am lucky I will start a trend where academic writers use markdown more than pdf. At the moment I think it is very cool that markdown is easy to read and supports LaTeX. Before I ventured into the world of programming in 2020 I would speed-listen to text primarily, which is how I gathered the connections and interests that guide my interests going forward, because I had visual snow syndrome. If you would like to support me, donations are appreciated via the link provided [here](https://cash.app/$nv7mon).
 
-All the best,
+Thanks for stopping by,  
 Norah Vii (she/her/they)
