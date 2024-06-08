@@ -63,9 +63,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I wish computers were real. They are pretty cool."
   links:
-    - label: "OldBlog"
-      icon: "fas fa-fw fa-link"
-      url: "https://norahvii.pythonanywhere.com/"
+    - label: "Metafiction"
+      icon: "fab fa-fw fa-wordpress"
+      url: "https://starcatsinterface.wordpress.com/"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/norah-jo-vii/"
