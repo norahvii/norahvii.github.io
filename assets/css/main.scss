@@ -1,0 +1,26 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+$base00: #080808;
+$base01: #161611;
+$base02: #49483e;
+$base03: #75715e;
+$base04: #a59f85;
+$base05: #f8f8f2;
+$base06: #f01717;
+$base07: #2aad40;
+$base08: #f92672;
+$base09: #fd971f;
+$base0a: #e6f894;
+$base0b: #a6e22e;
+$base0c: #a818a8;
+$base0d: #ff004c;
+$base0e: #ae81ff;
+$base0f: #cc6633;
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
