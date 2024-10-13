@@ -107,7 +107,6 @@ This function suggests that control decreases as complexity increases, but can b
 
 Complexity Evolution:
 - $$\frac{dX(t)}{dt} = k_1 * (1 - C(t))$$  
-
 This differential equation expresses that the rate of increase in complexity is proportional to the lack of control.
 
 Hunger Function:
