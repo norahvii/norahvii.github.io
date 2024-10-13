@@ -102,16 +102,20 @@ Let's define our model:
 Now, let's express these relationships mathematically:
 
 Control Function:
-$$C(t) = f(X(t), B(t))$$
+- $$C(t) = f(X(t), B(t))$$  
 This function suggests that control decreases as complexity increases, but can be partially offset by the brain's adaptive capacity.
+
 Complexity Evolution:
-$$\frac{dX(t)}{dt} = k_1 * (1 - C(t))$$
+- $$\frac{dX(t)}{dt} = k_1 * (1 - C(t))$$  
+
 This differential equation expresses that the rate of increase in complexity is proportional to the lack of control.
+
 Hunger Function:
-$$H(t) = h(C(t), X(t))$$
+- $$H(t) = h(C(t), X(t))$$  
 Total hunger is a function of both control and complexity.
+
 Brain Adaptation:
-$$\frac{dB(t)}{dt} = k_2 * X(t) - k_3 * B(t)$$
+- $$\frac{dB(t)}{dt} = k_2 * X(t) - k_3 * B(t)$$  
 This differential equation suggests that the brain's adaptive capacity increases in response to complexity but also decays over time.
 
 ---
