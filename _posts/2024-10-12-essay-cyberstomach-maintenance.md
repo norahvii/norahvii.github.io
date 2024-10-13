@@ -88,11 +88,39 @@ Now, what does this equation tell us about the problem of hunger? Essentially, i
 
 As the system grows larger, both the need for energy (maintenance) and the constraints on supplying that energy increase. The equation highlights a **fundamental tension** in the Cyberstomach: while we may externalize the feeling of hunger, the need for maintenance—whether internal or external—remains an inescapable part of existence.
 
+---
+
+See also: **Evolution of Control, Complexity, and Hunger Over Time**
+
+Let's define our model: 
+
+- $$C(t)$$: Degree of control the brain has over hunger at time t
+- $$X(t)$$: Complexity of the hunger system at time t
+- $$H(t)$$: Total hunger (both physical and systemic) at time t
+- $$B(t)$$: Brain's adaptive capacity at time t
+
+Now, let's express these relationships mathematically:
+
+Control Function:
+$$C(t) = f(X(t), B(t))$$
+This function suggests that control decreases as complexity increases, but can be partially offset by the brain's adaptive capacity.
+Complexity Evolution:
+$$\frac{dX(t)}{dt} = k_1 * (1 - C(t))$$
+This differential equation expresses that the rate of increase in complexity is proportional to the lack of control.
+Hunger Function:
+$$H(t) = h(C(t), X(t))$$
+Total hunger is a function of both control and complexity.
+Brain Adaptation:
+$$\frac{dB(t)}{dt} = k_2 * X(t) - k_3 * B(t)$$
+This differential equation suggests that the brain's adaptive capacity increases in response to complexity but also decays over time.
+
+---
+
 ### What Does This Mean for Solving Hunger?
 
 On the surface, the Cyberstomach presents a tantalizing solution to world hunger. It shifts the burden of maintenance from the body to external systems, which could potentially be optimized to produce abundant resources. But the equation above reminds us that this shift doesn’t solve the problem entirely. The **need for resources** persists, and as external systems grow larger, they face their own constraints—energy, infrastructure, and societal maintenance costs.
 
-In other words, hunger is not just a biological problem—it’s a systemic one. We can move hunger outside the body, but the need for energy remains, and it simply transforms into the need to maintain the external systems that support life. Solving hunger, in this framework, is about **finding ways to manage these external systems** effectively—optimizing production, reducing constraints, and ensuring that the system remains sustainable.
+In other words, hunger is not just a biological problem—it’s a systemic one. As time goes on, the mind may become inexorably more involved with the maintainance problem than it was previously. We can move hunger outside the body, but the need for energy remains, and it simply transforms into the need to maintain the external systems that support life. Solving hunger, in this framework, is about **finding ways to manage these external systems** effectively—optimizing production, reducing constraints, and ensuring that the system remains sustainable.
 
 ### Conclusion
 
