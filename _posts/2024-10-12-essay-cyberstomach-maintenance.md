@@ -38,6 +38,7 @@ Where:
 
 In this system, we observe how hunger shifts between internal and external signals:
 $$P_{\text{shift}}(t) = \eta \cdot \frac{dH_b(t)}{dt} = - (1-\eta) \cdot \frac{dH_c(t)}{dt}$$
+
 Where:
 - $$P_{\text{shift}}(t)$$ quantifies the transfer of hunger from the body to the external system.
 - $$\eta$$ represents the efficiency with which this shift occurs. As hunger moves from internal to external, the body reduces its need while increasing the demand on the external system.
