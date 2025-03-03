@@ -37,7 +37,9 @@ All these quotes were items I found while speed-listening. As a graphic design m
 
 This quote from Nietzsche foreshadows his break from academia and his descent into a lifestyle of interrogating humanity as a creature who invented knowing. After all, if the science communicators are serious about our over-arching intent to know the universe, why would we ever eject a student from the school system? I maintain that it's these two wheels of Nietzsche's logic that shredded Nietzsche's sanity. Wouldn't it be nice to have an educational institution where people can go to understand the universe? I think so. Many other idealistically-minded people would, but that's not how things really work, and it is bound to become a wrench in the workings of any educational institution.
 
-#### “*I don't care. I want to learn how to speed-listen anyway.*” 
+
+#### “*I don't care. I want to learn how to speed-listen anyway.*”  
+
 
 Maybe right now you're thinking: "Wow, that's bleak, but I don't care. I want to learn how to speed-listen anyway." And I have good news for you, you can learn it. The first book I ever listened to was *The Magic Mountain* by Thomas Mann, but I slowly but surely supplemented my usual time gaming with listening to books using TTS (text-to-speech). If that's still of interest to you, here's some general advice . . . 
 
