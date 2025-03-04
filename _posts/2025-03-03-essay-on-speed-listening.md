@@ -7,6 +7,7 @@ tags:
   - philosophy
   - education
   - technology
+  - linguistics
 ---
 
 Using a program ([TTSReader](https://www.majorgeeks.com/files/details/ttsreader.html)), I was able to adjust to speed listening to text at ~600 words per minute. At first, this was just a clever way to manage visual snow syndrome, but I soon realized this could impact our lives in many ways and was a teachable skill.
@@ -15,7 +16,7 @@ Using a program ([TTSReader](https://www.majorgeeks.com/files/details/ttsreader.
 
 Being 15 times faster than morse code operators already entails potential military applications, you may recall how the Navajo language was used in WWII as an unbreakable language. There is no reason why people couldn't be trained to speed-listen, I thought; one could even be trained to speed-listen to text along with being trained in stenography, which currently allows court room transcriptionists to type at rates exceeding 300 words per minute. 
 
-Yet this is just the tip of the speed-listening iceberg. How would this impact our educational institutions? How long with English-only speed-listening? Could you deradicalize extremists by having them hear more than one book? Could you force politicians to hear every word of every law they write? Would executive assistants start doing this? Would Rabbis studying the Torah? Would monks have speed-listening meditation chambers? As we learn more and more about the universe across intergenerational time, would we have to learn this? Would we have to invent a way to absorb more information more quickly? People already read braille. What if I invented a way to touch a book and instantly absorb it in just the same way as I can touch a table and know that it's made of metal or wood?
+Yet this is just the tip of the speed-listening iceberg. How would this impact our educational institutions? How long with English-only speed-listening before branching out into math? Could you deradicalize extremists by having them hear more than one book? Could you force politicians to hear every word of every law they write? Would executive assistants start doing this? Would Rabbis studying the Torah? Would monks have speed-listening meditation chambers? Wouldn't Chinese be more efficient than English? What about languages that rely on clicking sounds? As we learn more and more about the universe across intergenerational time, would we have to learn this? Would we have to invent a way to absorb more information more quickly? People already read braille. What if I invented a way to touch a book and instantly absorb it in just the same way as I can touch a table and know that it's made of metal or wood?
 
 > “*In our community, man is recognized as immature until the age of twenty-one, and the modern period of education for the higher walks of life continues until about thirty, actually beyond the time of greatest physical strength. Man thus spends what may amount to forty per cent of his normal life as a learner, again for reasons that have to do with his physical structure. It is as completely natural for a human society to be based on learning as for an ant society to be based on an inherited pattern.*”
 > 
