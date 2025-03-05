@@ -45,6 +45,6 @@ Maybe right now you're thinking: "Wow, that's bleak, but I don't care. I want to
 1. Learn how to tolerate the mechanical voice first, it doesn't matter how human it sounds
 2. Slowly build up your tolerance to faster and faster speeds
 3. After you adjust to hearing faster than average, experiment with different voices
-4. Take some time to decompress and relax after a session, congitive overload is a real possibility
+4. Take some time to decompress and relax after a session, cognitive overload is a real possibility
 
 In my experience, the medium is great for historical, philosophical, psychological or anthropological information. It's not so great for math, or anything with spatially relative parameters for that matter. But with many tech communicators saying that the biggest programming language right now is English, I'd argue that learning how to speed-listen to text can be immensely beneficial for any job that requires a copious amount of reading. 
