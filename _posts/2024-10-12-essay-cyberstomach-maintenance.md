@@ -133,3 +133,5 @@ The Cyberstomach thought experiment provides a new way of thinking about hunger.
 And through the lens of our mathematical model, we recognize that while shifting hunger externally might offer short-term relief, it introduces new challenges. As systems grow, they face increasing constraints and a growing need for energy—forcing us to confront the problem of hunger as part of the broader problem of sustaining life in a resource-constrained world.
 
 Hunger, it seems, is not just a matter of feeding bodies but of maintaining the systems that make life possible. By integrating both the biological and mathematical perspectives, the essay creates a dialogue between abstract thought experiments and concrete mathematical reasoning—bridging the gap between philosophy and mathematics.
+
+As it stands, it contributes to the ongoing discussion about the relationship between technology and human well-being. But if you take this lens and look at cellular well-being, you can see exploitation and suffering everywhere. The central concern is if we can use this lens in time to prevent the kind of suffering nature has already wrought on the cellular domain.
