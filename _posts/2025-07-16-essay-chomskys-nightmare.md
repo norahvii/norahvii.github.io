@@ -87,9 +87,3 @@ The nightmare counterexample doesn’t say Skinner was right, but shows that Cho
 |Excludes inner mental life as non-measurable|Abstracts mind from body and emotion|Centers embodied experience as site of semantic production|
 |Data derived from observable behavior|Data derived from grammatical intuitions|Data derived from affective states, dream logic, and non-verbal cognition|
 
----
-
-mermaid
-graph TD
-    A[Skinner] --> B[Chomsky]
-    B --> C[Vii]
