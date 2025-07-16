@@ -13,9 +13,9 @@ tags:
   - semiotics
 ---
 
-# Subtitle: Nightmare: An Exception to Grammatical Universality
-
 *“Now, let us see if you truly understand what it means to be nightmare.” - Malachai*
+
+# Subtitle: Nightmare: An Exception to Grammatical Universality
 
 ## Introduction
 
@@ -47,6 +47,7 @@ Furthermore, Chomsky’s framework does not account for meaning generation, only
 | Sentence proves grammatical competence independent of meaning. | Nightmare proves semantic intensity independent of grammar.                       |
 | Language is structured by innate mental rules.                 | Meaning is structured by affective, embodied, and possibly non-human experiences. |
 | Formal analysis isolates syntax from usage or feeling.         | Embodied analysis reintegrates emotion, perception, and symbolic condensation.    |
+
 By treating “Colorless green ideas sleep furiously” not as meaningless but potentially meaningful within altered states, we're inverting and expanding on the terrain of his initial question: 
 
 > What happens when semantic charge can emerge from non-referential structure, not through logic, but through affect?
