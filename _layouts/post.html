@@ -2,15 +2,8 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
 
-<pre><code class="language-mermaid">graph LR
-A--&gt;B
-</code></pre>
-
-<div class="mermaid">graph LR
-A--&gt;B
-</div>
-	
-</body>
+{% if page.mermaid == true %}
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
 <script>
 var config = {
     startOnLoad:true,
@@ -23,3 +16,4 @@ var config = {
 mermaid.initialize(config);
 window.mermaid.init(undefined, document.querySelectorAll('.language-mermaid'));
 </script>
+{% endif %}
