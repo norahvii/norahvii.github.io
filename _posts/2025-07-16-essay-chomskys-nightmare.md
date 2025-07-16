@@ -89,77 +89,8 @@ The nightmare counterexample doesn’t say Skinner was right, but shows that Cho
 
 ---
 
-
 ```mermaid
 graph TD
-
-%% === Core Thinkers ===
-    Skinner["Skinner (1957) — Focus: Behaviorist Language Model"]
-    Chomsky["Chomsky (1957+) — Focus: Universal Grammar"]
-    Vii["Norah Vii — Focus: Affective and Embodied Semiotics"]
-
-%% === Sentence Examples ===
-    S_example["Example: 'Give me cookie!'"]
-    C_example["Example: 'Colorless green ideas sleep furiously'"]
-    V_example["Example: 'The crunching angry leaves stared menacingly'"]
-
-%% === Interpretation Summaries ===
-    C_summary["Chomsky Summary: Grammatically correct + Semantically nonsensical"]
-    V_summary["Vii Summary: Grammatically correct + Semantically meaningful (within nightmare context)"]
-
-%% === Conceptual Conflict ===
-    SemanticConflict["Conflict: These models of meaning are mutually incompatible"]
-
-%% === Conceptual Overlaps ===
-    Overlap1["Shared: Concern with how meaning is generated and organized"]
-    Overlap2["Shared: Acceptance of internal structure (Chomsky + Vii)"]
-    Overlap3["Vii Divergence: Includes symbolic affect, altered states, animal cognition"]
-
-%% === Gaps and Fixes ===
-    SkinnerGap["Gap: Cannot explain novel or generative utterances"]
-    ChomskyFix["Chomsky's Contribution: Syntax governed by innate grammatical structure"]
-    ChomskyGap["Gap: Ignores affective, non-logical, and non-human meaning"]
-
-%% === Significance ===
-    Meaning1["Language is one subset of a broader semiotic capacity"]
-    Meaning2["Nightmare reveals valid meaning beyond logic"]
-    Meaning3["Toward inclusive semiotics: AI, animals, trauma, dreams"]
-
-%% === Alt Root Proposal ===
-    AltRoot["Proposal: Meaning may have a universal affective/symbolic basis beyond grammar"]
-
-%% === Flow Connections ===
-    Skinner --> S_example
-    Skinner --> SkinnerGap
-    SkinnerGap --> Chomsky
-    Chomsky --> C_example
-    Chomsky --> ChomskyFix
-    ChomskyFix --> ChomskyGap
-    ChomskyGap --> Vii
-    Vii --> V_example
-
-    C_example --> C_summary
-    V_example --> V_summary
-
-    C_summary --> SemanticConflict
-    V_summary --> SemanticConflict
-
-    V_summary --> Meaning2
-    Meaning2 --> AltRoot
-    AltRoot --> Meaning3
-
-%% === Overlap Connections ===
-    Skinner --- Overlap1
-    Chomsky --- Overlap1
-    Vii --- Overlap1
-
-    Chomsky --- Overlap2
-    Vii --- Overlap2
-    Vii --- Overlap3
-
-%% === Significance Connections ===
-    ChomskyFix --> Meaning1
-
+    A[Skinner] --> B[Chomsky]
+    B --> C[Vii]
 ```
-
-
