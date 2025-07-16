@@ -13,17 +13,17 @@ tags:
   - semiotics
 ---
 
+
 *“Now, let us see if you truly understand what it means to be nightmare.” - Malachai*
 
-# Subtitle: Nightmare: An Exception to Grammatical Universality
 
-## Introduction
+### Introduction
 
 This article builds on Chomsky’s sentence “Colorless green ideas sleep furiously.” to argue that in the context of nightmare such sentences can become semantically charged. Let's use a counterexample: “The crunching angry leaves stared menacingly.” but stress that in a dream I walked past a pile of angry leaves which were crunching ever-louder filling me with a sense of profound dread. Suddenly nightmare, an altered state, performs a semantic inversion: creating meaning from empty syntax where none was available, logically. I postulate it may be possible to use this as a point of contact between alien minds, including animal, dream-state, and possibly artificial cognition. Furthermore, I contend that Chomsky's notion of “universality” is intrinsically anthropocentric, excluding biological forms of communication beyond human verbal language. 
 
 ---
 
-## Nightmare as Semiotic Portal
+### Nightmare as Semiotic Portal
 
 Dreams, and nightmares in particular, exist at the intersection of experience and symbolic abstraction. They simulate meaning in emotionally real ways without relying on coherent syntax. In nightmares, ordinary objects loom with significance beyond language’s ability to categorize them as threat and meaning become entangled. Positioning nightmare as a “semiotic portal” allows us to:
 
@@ -33,13 +33,13 @@ Dreams, and nightmares in particular, exist at the intersection of experience an
 
 ---
 
-## The Limits of Chomsky’s “Universality”
+### The Limits of Chomsky’s “Universality”
 
 Chomsky’s model of universal grammar is only as universal as the subjects and methods it engages. His research is grounded in human verbal language and introspective grammaticality judgments. It doesn’t consider how other species encode or decode meaning, nor does it engage with altered states like dreaming, psychosis, or trauma, where traditional grammatical logic may dissolve but meaning still proliferates.
 
 Furthermore, Chomsky’s framework does not account for meaning generation, only the recognition of sentence structure. It presumes a fixed inner architecture rather than engaging with how newness or novelty arises in evolving biological or communicative systems.
 
-### What this Approach Does Differently
+#### What this Approach Does Differently
 
 | Chomsky’s Use                                                  | Chomsky’s Nightmare                                                               |
 | -------------------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -65,7 +65,7 @@ By widening the field of Universal Grammar to include affective-semiotic compete
 
 ---
 
-## Toward a Biosemantic Theory of Meaning
+### Toward a Biosemantic Theory of Meaning
 
 A truly universal grammar (or better, a universal semiotics) would not be constrained by linguistic syntax alone. It would address how diverse biological systems (animal, human, artificial) generate, assign, and respond to meaning. Nightmare, as a visceral and emotionally coherent yet grammatically defiant phenomenon, becomes a case study in such a theory.
 
@@ -75,7 +75,7 @@ If Chomsky had truly sought a universal grammar, he would have had to look beyon
 
 ---
 
-## The Middle Way
+### The Middle Way
 
 The nightmare counterexample doesn’t say Skinner was right, but shows that Chomsky wasn’t entirely complete. By ignoring how emotion, perception, and symbolic states generate significance, Chomsky’s universal grammar becomes too narrow to account for non-logical yet meaningful experiences. One remarkable example of this is the use of quantum effects by birds to navigate, possibly birds would tell us a lot about quantum physics and Earth's magnetic fields, but to do so would require crossing through the semiotic portal mentioned previously. This is a third position:
 
