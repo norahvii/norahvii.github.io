@@ -89,8 +89,7 @@ The nightmare counterexample doesn’t say Skinner was right, but shows that Cho
 
 ---
 
-```mermaid
+mermaid
 graph TD
     A[Skinner] --> B[Chomsky]
     B --> C[Vii]
-```
